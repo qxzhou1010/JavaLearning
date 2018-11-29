@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author DZKD
+ *
+ */
+module LeetCode {
+}
